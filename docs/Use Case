@@ -1,0 +1,2 @@
+git add docs/use-case.md
+git commit -m "docs: Use Case сценарийлерін қосу (UC-1, UC-2, UC-3)"
