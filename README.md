@@ -18,3 +18,5 @@ git commit -m "Initial commit: жобаның бастапқы құрылымы"
 # Негізгі branch-ке жіберу
 git branch -M main
 git push -u origin main
+ll
+f
